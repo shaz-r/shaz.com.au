@@ -1,0 +1,37 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<link
+			href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500"
+			rel="stylesheet"
+			type="text/css"
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<p>
+				<img src="https://shaz.com.au/img/shaz.jpg" style="border-radius: 75px;height:150px" alt="Shaz Ravenswood" />
+			</p>
+			<p>
+				Hi! Welcome to my website! 
+			</p>
+			<p>
+				Chances are you've landed here while trying to find my online presence  - I'm not really active nor available on most social media channels, so feel free to check some of my thoughts or links posted here.
+			</p>
+			<p>
+				I'm an engineering leader working in software development with nearly two decades of programming experience, having been fortunate enough to start my journey with the "Dynamic HTML" for dummies guide in the early 00's, to now helping empower teams & individuals to do their best work.
+			</p>
+			<p>If you are working on some interesting things and want a rubber duck, or in need of an experienced engineering manager, I'm always happy to have a chat!</p>
+		</main>
+		<Footer />
+	</body>
+</html>
