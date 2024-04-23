@@ -12,3 +12,5 @@ Hi! I'm a technical leader based in <a href="https://www.discovertasmania.com.au
 Chances are you've landed here while trying to find my online presence  - I'm not available nor active on most social media channels, so do check out my <a href="/thoughts">thoughts</a> and <a href="/links">links</a> to find out more about me.
 
 I'm always available for a <a href="https://calendly.com/shaz-r" target="_blank">coffee</a> (virtual or otherwise!) if you're ever in need of a <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">rubber duck</a>, and/or working on something interesting that I might like!</p>
+
+🏳️‍🌈🚀
