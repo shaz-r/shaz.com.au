@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+
+import Layout from '../../layouts/Pages.astro'
+
+const thoughts = (await getCollection('thoughts')).filter(t => t.data.published === true).sort(
+	(a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+---
+
+<Layout>
+	<h1>Thoughts</h1>
+
+	<p>Everything from software engineering, to managing people and products, to owning and flying an old Russian aerobatic plane.</p>
+
+	{ thoughts.map( t => (
+		<h4>
+			<a href={`thoughts/${t.slug}`}>
+				{t.data.title} <span class="light">(<FormattedDate date={t.data.publishDate} />)</span>
+			</a>
+		</h4>
+	))}
+	
+</Layout>

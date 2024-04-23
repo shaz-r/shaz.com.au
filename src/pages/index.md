@@ -4,6 +4,8 @@ title: 'Home'
 description: 'The mythical 10x engineer, or unicorns are real'
 ---
 
+<img src="https://shaz.com.au/img/shaz.jpg" style="border-radius:75px;width:150px">
+
 ## Shaz Ravenswood
 Hi! I'm a technical leader based in <a href="https://www.discovertasmania.com.au/" target="_blank">Tasmania</a>, with a keen interest in empowering teams and individuals to do their best work.</p>
 

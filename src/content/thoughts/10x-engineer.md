@@ -1,7 +1,7 @@
 ---
-title: '10x Engineer'
+title: 'The 10x Engineer'
 description: 'The mythical 10x engineer, or unicorns are real'
-pubDate: '22 April 2024'
+publishDate: '22 April 2024'
 published: true
 ---
 
@@ -9,7 +9,7 @@ What makes someone a "10x Engineer"?
 
 This question, or something along these lines, tends to pop up every now and then - either from managers looking for their "unicorn" or sometimes even software engineers themselves looking to hone their craft. 
 
-If I may - I'll look at this slightly differently and offer up what makes a good software engineer in a given team:
+I'll look at this slightly differently and offer up what makes a good software engineer in a given team, at least to me:
 
 - Ability to understand and break down a given issue / idea
 - Ability to communicate the break down to both technical and non-technical people, so they can understand it too
