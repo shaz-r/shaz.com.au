@@ -12,7 +12,7 @@ const thoughts = (await getCollection('thoughts')).filter(t => t.data.published 
 <Layout>
 	<h1>Thoughts</h1>
 
-	<p>Everything from software engineering, to managing people and products, to owning and flying an old Russian aerobatic plane.</p>
+	<p>My blurbs on everything from building apps, to managing people and products, to tinkering on motorcycles and cars, to owning and flying an old Russian aerobatic plane.</p>
 
 	{ thoughts.map( t => (
 		<h4>
