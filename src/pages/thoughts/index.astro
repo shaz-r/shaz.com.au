@@ -16,7 +16,7 @@ const thoughts = (await getCollection('thoughts')).filter(t => t.data.published 
 
 	{ thoughts.map( t => (
 		<h4>
-			<a href={`./thoughts/${t.slug}`}>
+			<a href={`/thoughts/${t.slug}`}>
 				{t.data.title} <span class="light">(<FormattedDate date={t.data.publishDate} />)</span>
 			</a>
 		</h4>
