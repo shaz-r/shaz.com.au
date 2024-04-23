@@ -1,0 +1,28 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<p>
+				<img src="https://shaz.com.au/img/shaz.jpg" style="border-radius: 5rem;height:10rem" alt="Shaz Ravenswood" />
+			</p>
+			<h3>Shaz Ravenswood</h3>
+			<p>Hi! I'm a technical leader based in <a href="https://www.discovertasmania.com.au/" target="_blank">Tasmania</a>, with a keen interest in empowering teams and individuals to do their best work.</p>
+			<p>
+				Chances are you've landed here while trying to find my online presence  - I'm not available nor active on most social media channels, so do check out my <a href="/thoughts">thoughts</a> and <a href="/links">links</a> to find out more about me.
+			</p>
+			<p>I'm always available for a <a href="https://calendly.com/shaz-r" target="_blank">coffee</a> (virtual or otherwise!) if you're ever in need of a <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">rubber duck</a>, and/or working on something interesting that I might like!</p>
+		</main>
+		<Footer />
+	</body>
+</html>

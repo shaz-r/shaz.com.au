@@ -2,6 +2,7 @@
 title: '10x Engineer'
 description: 'The mythical 10x engineer, or unicorns are real'
 pubDate: '22 April 2024'
+published: true
 ---
 
 What makes someone a "10x Engineer"?
