@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = "Shaz Ravenswood";
 export const SITE_DESCRIPTION =
-  "Technical leader based in Tasmania, with a keen interest in empowering teams and individuals to do their best work";
+  "Technical leader based in lutruwita / Tasmania, with a keen interest in empowering teams and individuals to do their best work";
