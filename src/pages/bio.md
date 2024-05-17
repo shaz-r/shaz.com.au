@@ -22,3 +22,5 @@ Night:  16.2
 
 PPL-A SEA MEA IAP 2D/3D  
 FLH FLP MPPC TWU RU AERO A150 SPIN  
+
+Own & operate a [Yak-55M](/yak)

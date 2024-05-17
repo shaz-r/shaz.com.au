@@ -15,7 +15,7 @@ The following is a collection of links to find out more about me, and stuff I'm 
 
 ### Aviation
 
-- [Yak 55M]()
+- [Yak 55M](/yak)
 - [Photos & videos]()
 
 ### Software Engineering
