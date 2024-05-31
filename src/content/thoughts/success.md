@@ -2,7 +2,7 @@
 title: 'What is success?'
 description: "Mrs. A. J. Stanley, Ralph Waldo Emerson - What is success?"
 publishDate: '1 June 2024'
-published: false
+published: true
 ---
 
 Missatributed at times<sup>([1](https://quoteinvestigator.com/2012/06/26/define-success/#more-4036),[2](https://wist.info/stanley-bessie-a/28428/))</sup>, but worth reading often: 
