@@ -1,7 +1,7 @@
 ---
 title: 'DevEx Litmus Test'
 description: "How long will it take a new member to commit a change?"
-publishDate: '15 Jul 2024'
+publishDate: '15 Jun 2024'
 published: true
 ---
 
@@ -17,6 +17,6 @@ Let's flip this -
 
 90 mins.
 
-Those are arbitrary times I think are a good measure - and they include all the relevant requirements; documentation, code, tests, deployment, Q/A, A/B tests etc etc. 
+These are arbitrary times I think are a good measure - and they include all the relevant requirements; documentation, code, tests, deployment, Q/A, A/B tests etc etc. 
 
 These times are not ones you should aim for, but to start a conversation on where your teams productivity is at the moment and what would be the ideal.
