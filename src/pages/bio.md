@@ -20,7 +20,7 @@ Multi: 45.5
 Sea: 36.4  
 Night: 16.9  
 
-CPL-A SEA MEA IAP 2D/3D  
+CPL-A ME-IR IAP 2D/3D  
 FLH FLP MPPC TWU RU AERO A150 SPIN  
 
 Own & operate a [Yak-55M](/yak)
