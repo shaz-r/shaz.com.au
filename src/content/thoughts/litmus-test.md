@@ -5,18 +5,20 @@ publishDate: '15 Jun 2024'
 published: true
 ---
 
-A simple question -
+Imagine a scenario where a recent graduate, fresh out of their educational institution, joins your team. 
 
-> A grad, fresh out of their University / College / School / Bootcamp joins your team. They know the basics of the technology you are using, e.g. React on the Front-End and Go-Lang for your API, or even a full stack RoR application. It's Monday, they've popped up for the first time and have just been given access to their work station, whatever that might be. How long will it take this engineer to commit a change and see it in production? To be more specific, let's say there's a user profile section in your application - they've been tasked with adding a "url" field for users to add a link to their website.
+They possess a foundational understanding of the technologies in use, such as React for the Front-End and Go-Lang for the API, or even a full stack RoR application. 
 
-For a reasonably competent engineer, working through a well documented system which emphasizes developer productivity / experience, half a day should be more than enough.
+It's Monday, their first day, and they have just been granted access to their work station. 
 
-Let's flip this -
+How long will it take this new engineer to make a change and see it in production? To be more precise, let's consider a task involving adding a "url" field to the user profile section of your application.
 
-> Same scenario as above, but the engineer has been on the team for 12 months. They're now tasked with adding a "github" url/handle field. How long would this take?
+For a reasonably skilled engineer operating within a well-documented system that prioritizes developer productivity and experience, half a day should suffice.
 
-90 mins.
+Now, let's switch perspectives to a scenario where the engineer has been part of the team for 12 months. They are now assigned the task of incorporating a "github" url/handle field. How much time should this task require?
 
-These are arbitrary times I think are a good measure - and they include all the relevant requirements; documentation, code, tests, deployment, Q/A, A/B tests etc etc. 
+Approximately 90 minutes.
 
-These times are not ones you should aim for, but to start a conversation on where your teams productivity is at the moment and what would be the ideal.
+These timeframes are indicative measures and encompass all essential aspects such as documentation, coding, testing, deployment, quality assurance, A/B testing, and more.
+
+It's important to note that these timeframes are not meant to be strict targets but rather serve as a starting point for evaluating your team's current productivity levels and identifying areas for improvement.
