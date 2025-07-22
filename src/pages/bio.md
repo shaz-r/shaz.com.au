@@ -14,14 +14,14 @@ BEng (Hons) Mechanical Engineering, [King's College London](https://kcl.ac.uk)
 
 ### Logbook
 
-Total Hours: 502.7  
-PIC: 310.4  
-IFR: 98.0  
-Multi: 45.5  
+Total Hours: 548.8  
+PIC: 346.1  
+IFR: 104.3  
+Multi: 50.8  
 Sea: 36.4  
-Night: 16.9  
+Night: 19.6  
 
-CPL-A ME-IR IAP 2D/3D  
+CPL-A ME-IR IAP 2D/3D FI DF  
 GTE FLH FLP MPPC TWU RU AERO A150 SPIN  
 
 Own & operate a [Yak-55M](/yak)
