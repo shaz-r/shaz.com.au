@@ -14,8 +14,8 @@ BEng (Hons) Mechanical Engineering, [King's College London](https://kcl.ac.uk)
 
 ### Logbook
 
-Total Hours: 548.8  
-PIC: 346.1  
+Total Hours: 567.2  
+PIC: 364.5  
 IFR: 104.3  
 Multi: 50.8  
 Sea: 36.4  
